@@ -81,7 +81,7 @@
               <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
                 <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
-                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    👉🏼XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
                     <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
                   </XCUIElementTypeOther>
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="144" width="375" height="523">
@@ -368,7 +368,7 @@
               <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
                 <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
-                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+👉🏼<XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
                     <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
                   </XCUIElementTypeOther>
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">
@@ -434,7 +434,7 @@
               <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
                 <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
-                    <XCUIElementTypeImage type="XCUIElementTypeImage" name="my_patients_x2.png" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+👉🏼<XCUIElementTypeImage type="XCUIElementTypeImage" name="my_patients_x2.png" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
                     <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
                   </XCUIElementTypeOther>
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">
@@ -500,7 +500,7 @@
               <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
                 <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
-                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    👉🏼XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
                     <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
                   </XCUIElementTypeOther>
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="144" width="375" height="523">
@@ -787,7 +787,7 @@
               <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
                 <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
-                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    👉🏼XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
                     <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
                   </XCUIElementTypeOther>
                   <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">

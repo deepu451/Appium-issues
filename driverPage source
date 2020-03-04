@@ -1,0 +1,812 @@
+2020-03-04 23:25:46 INFO  DeviceCertificationTestcases:500 - ************************************************************************************************************************************
+2020-03-04 23:25:48 INFO  DeviceCertificationTestcases:501 - <?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Vocera" label="Vocera" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Patients" enabled="true" visible="true" x="0" y="20" width="375" height="44">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="16" y="20" width="44" height="44">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="false" x="16" y="20" width="0" height="0"/>
+              </XCUIElementTypeButton>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patients" name="Patients" label="Patients" enabled="true" visible="true" x="155" y="32" width="66" height="21"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" name="my_patients_x2.png" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="114" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="218" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, TestPatient  " name="One, TestPatient  " label="One, TestPatient  " enabled="true" visible="true" x="8" y="122" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="141" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="159" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="176" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="195" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="218" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="true" x="46" y="176" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="true" x="51" y="159" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1001" name="MRN1001" label="MRN1001" enabled="true" visible="true" x="50" y="195" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="true" x="57" y="141" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="219" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="323" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, TestPatient  " name="Two, TestPatient  " label="Two, TestPatient  " enabled="true" visible="true" x="8" y="227" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="246" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="264" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="281" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="300" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="323" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="true" x="46" y="281" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="23/Feb/1990 (30y)" name="23/Feb/1990 (30y)" label="23/Feb/1990 (30y)" enabled="true" visible="true" x="51" y="264" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1002" name="MRN1002" label="MRN1002" enabled="true" visible="true" x="50" y="300" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="true" x="57" y="246" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="175" y="55" width="25" height="5"/>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="667" width="375" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>
+2020-03-04 23:25:52 INFO  DeviceCertificationTestcases:506 - ************************************************************************************************************************************
+2020-03-04 23:26:19 INFO  DeviceCertificationTestcases:507 - <?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Vocera" label="Vocera" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Patients" enabled="true" visible="true" x="0" y="20" width="375" height="44">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="16" y="20" width="44" height="44">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="false" x="16" y="20" width="0" height="0"/>
+              </XCUIElementTypeButton>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patients" name="Patients" label="Patients" enabled="true" visible="true" x="155" y="32" width="66" height="21"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="144" width="375" height="523">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="144" width="375" height="523">
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="144" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="248" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13, Patient  " name="13, Patient  " label="13, Patient  " enabled="true" visible="true" x="8" y="152" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="171" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="189" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="206" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="225" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="248" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_13" name="BLR_QA_Facility BLR_QA_Unit_13" label="BLR_QA_Facility BLR_QA_Unit_13" enabled="true" visible="true" x="46" y="206" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1956 (63y)" name="20/May/1956 (63y)" label="20/May/1956 (63y)" enabled="true" visible="true" x="51" y="189" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN562653" name="MRN562653" label="MRN562653" enabled="true" visible="true" x="50" y="225" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R13" name="R13" label="R13" enabled="true" visible="true" x="57" y="171" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="249" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="353" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Automation, Mypatient  " name="Automation, Mypatient  " label="Automation, Mypatient  " enabled="true" visible="true" x="8" y="257" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="276" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="294" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="311" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="330" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="353" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DeviceCertification CertAutomation" name="DeviceCertification CertAutomation" label="DeviceCertification CertAutomation" enabled="true" visible="true" x="46" y="311" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="04/Mar/2020 (0d)" name="04/Mar/2020 (0d)" label="04/Mar/2020 (0d)" enabled="true" visible="true" x="51" y="294" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="123456789" name="123456789" label="123456789" enabled="true" visible="true" x="50" y="330" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="311" name="311" label="311" enabled="true" visible="true" x="57" y="276" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="354" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="458" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Esron, Nesbitt  " name="Esron, Nesbitt  " label="Esron, Nesbitt  " enabled="true" visible="true" x="8" y="362" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="381" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="399" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="416" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="435" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="458" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="FACILITY ICU1" name="FACILITY ICU1" label="FACILITY ICU1" enabled="true" visible="true" x="46" y="416" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="01/Jan/001 (2020y)" name="01/Jan/001 (2020y)" label="01/Jan/001 (2020y)" enabled="true" visible="true" x="51" y="399" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="346502222" name="346502222" label="346502222" enabled="true" visible="true" x="50" y="435" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="B650" name="B650" label="B650" enabled="true" visible="true" x="57" y="381" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="459" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="563" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="five, patient  " name="five, patient  " label="five, patient  " enabled="true" visible="true" x="8" y="467" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="486" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="504" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="521" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="540" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="563" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_OneVCSCare" name="BLR_QA_Facility BLR_QA_Unit_OneVCSCare" label="BLR_QA_Facility BLR_QA_Unit_OneVCSCare" enabled="true" visible="true" x="46" y="521" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1984 (35y)" name="20/May/1984 (35y)" label="20/May/1984 (35y)" enabled="true" visible="true" x="51" y="504" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN54367" name="MRN54367" label="MRN54367" enabled="true" visible="true" x="50" y="540" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r1" name="r1" label="r1" enabled="true" visible="true" x="57" y="486" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="564" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="668" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="four, patient  " name="four, patient  " label="four, patient  " enabled="true" visible="true" x="8" y="572" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="591" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="609" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="626" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="645" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="8" y="668" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_VoceraAndEngageCare" name="BLR_QA_Facility BLR_QA_Unit_VoceraAndEngageCare" label="BLR_QA_Facility BLR_QA_Unit_VoceraAndEngageCare" enabled="true" visible="true" x="46" y="626" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/Apr/1978 (41y)" name="13/Apr/1978 (41y)" label="13/Apr/1978 (41y)" enabled="true" visible="true" x="51" y="609" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN454455" name="MRN454455" label="MRN454455" enabled="true" visible="true" x="50" y="645" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room_1" name="Room_1" label="Room_1" enabled="true" visible="true" x="57" y="591" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="669" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="one, patient  " name="one, patient  " label="one, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_NoCareTeam" name="BLR_QA_Facility BLR_QA_Unit_NoCareTeam" label="BLR_QA_Facility BLR_QA_Unit_NoCareTeam" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN45678" name="MRN45678" label="MRN45678" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1956 (63y)" name="20/May/1956 (63y)" label="20/May/1956 (63y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="774" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, Patient1  " name="One, Patient1  " label="One, Patient1  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility2 BLR_Unit2" name="BLR_Facility2 BLR_Unit2" label="BLR_Facility2 BLR_Unit2" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN2001" name="MRN2001" label="MRN2001" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="04/Apr/1992 (27y)" name="04/Apr/1992 (27y)" label="04/Apr/1992 (27y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="879" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, TestPatient  " name="One, TestPatient  " label="One, TestPatient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1001" name="MRN1001" label="MRN1001" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="984" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Parks, Nancy  " name="Parks, Nancy  " label="Parks, Nancy  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="B850" name="B850" label="B850" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="FACILITY ICU1" name="FACILITY ICU1" label="FACILITY ICU1" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="914697" name="914697" label="914697" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="01/Jan/001 (2020y)" name="01/Jan/001 (2020y)" label="01/Jan/001 (2020y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1089" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patient, ToField  " name="Patient, ToField  " label="Patient, ToField  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="076" name="076" label="076" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="ToFieldFac Availability" name="ToFieldFac Availability" label="ToFieldFac Availability" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="123456" name="123456" label="123456" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="06/Dec/2019 (89d)" name="06/Dec/2019 (89d)" label="06/Dec/2019 (89d)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1194" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patient1, Sample  " name="Patient1, Sample  " label="Patient1, Sample  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="S01" name="S01" label="S01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="SampleFacility SampleUnit" name="SampleFacility SampleUnit" label="SampleFacility SampleUnit" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN5646523" name="MRN5646523" label="MRN5646523" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/May/1997 (22y)" name="13/May/1997 (22y)" label="13/May/1997 (22y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1299" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="patientuserone, longnamepatient longnamepatinet  long" name="patientuserone, longnamepatient longnamepatinet  long" label="patientuserone, longnamepatient longnamepatinet  long" enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="101" name="101" label="101" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Automation VCS" name="Automation VCS" label="Automation VCS" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="98765" name="98765" label="98765" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="15/Nov/1996 (23y)" name="15/Nov/1996 (23y)" label="15/Nov/1996 (23y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1404" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Seven, Patient  " name="Seven, Patient  " label="Seven, Patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="1" name="1" label="1" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patient7Facility patient7unit" name="Patient7Facility patient7unit" label="Patient7Facility patient7unit" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1234567" name="MRN1234567" label="MRN1234567" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/Aug/1997 (22y)" name="20/Aug/1997 (22y)" label="20/Aug/1997 (22y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1509" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="six, patient  " name="six, patient  " label="six, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="room_02" name="room_02" label="room_02" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_OneVoceraAndFewEngage" name="BLR_QA_Facility BLR_QA_Unit_OneVoceraAndFewEngage" label="BLR_QA_Facility BLR_QA_Unit_OneVoceraAndFewEngage" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN562435" name="MRN562435" label="MRN562435" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/Apr/1987 (32y)" name="13/Apr/1987 (32y)" label="13/Apr/1987 (32y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1614" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="three, patient  " name="three, patient  " label="three, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room_01" name="Room_01" label="Room_01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_VoceraCareTeam" name="BLR_QA_Facility BLR_QA_Unit_VoceraCareTeam" label="BLR_QA_Facility BLR_QA_Unit_VoceraCareTeam" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN4567" name="MRN4567" label="MRN4567" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/May/1952 (67y)" name="13/May/1952 (67y)" label="13/May/1952 (67y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1719" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Three, Patient3  " name="Three, Patient3  " label="Three, Patient3  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility2 BLR_Unit2" name="BLR_Facility2 BLR_Unit2" label="BLR_Facility2 BLR_Unit2" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN2003" name="MRN2003" label="MRN2003" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="30/Dec/1995 (24y)" name="30/Dec/1995 (24y)" label="30/Dec/1995 (24y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1824" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="two, patient  " name="two, patient  " label="two, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room-1" name="Room-1" label="Room-1" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_EngageCareTeam" name="BLR_QA_Facility BLR_QA_Unit_EngageCareTeam" label="BLR_QA_Facility BLR_QA_Unit_EngageCareTeam" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN12345" name="MRN12345" label="MRN12345" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1994 (25y)" name="20/May/1994 (25y)" label="20/May/1994 (25y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1929" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, Patient2  " name="Two, Patient2  " label="Two, Patient2  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility2 BLR_Unit2" name="BLR_Facility2 BLR_Unit2" label="BLR_Facility2 BLR_Unit2" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN2002" name="MRN2002" label="MRN2002" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="2034" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, TestPatient  " name="Two, TestPatient  " label="Two, TestPatient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1002" name="MRN1002" label="MRN1002" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="23/Feb/1990 (30y)" name="23/Feb/1990 (30y)" label="23/Feb/1990 (30y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="175" y="55" width="25" height="5"/>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="667" width="375" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>
+2020-03-04 23:26:22 INFO  DeviceCertificationTestcases:514 - ************************************************************************************************************************************
+2020-03-04 23:26:24 INFO  DeviceCertificationTestcases:515 - <?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Vocera" label="Vocera" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Patients" enabled="true" visible="true" x="0" y="20" width="375" height="44">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="16" y="20" width="44" height="44">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="false" x="16" y="20" width="0" height="0"/>
+              </XCUIElementTypeButton>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patients" name="Patients" label="Patients" enabled="true" visible="true" x="155" y="32" width="66" height="21"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="114" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="218" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, TestPatient  " name="One, TestPatient  " label="One, TestPatient  " enabled="true" visible="true" x="8" y="122" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="141" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="159" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="176" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="195" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="218" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="true" x="46" y="176" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="true" x="51" y="159" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1001" name="MRN1001" label="MRN1001" enabled="true" visible="true" x="50" y="195" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="true" x="57" y="141" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="219" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="323" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, TestPatient  " name="Two, TestPatient  " label="Two, TestPatient  " enabled="true" visible="true" x="8" y="227" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="246" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="264" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="281" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="300" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="323" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="true" x="46" y="281" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="23/Feb/1990 (30y)" name="23/Feb/1990 (30y)" label="23/Feb/1990 (30y)" enabled="true" visible="true" x="51" y="264" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1002" name="MRN1002" label="MRN1002" enabled="true" visible="true" x="50" y="300" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="true" x="57" y="246" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="175" y="55" width="25" height="5"/>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="667" width="375" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>
+2020-03-04 23:26:28 INFO  DeviceCertificationTestcases:519 - ************************************************************************************************************************************
+2020-03-04 23:26:30 INFO  DeviceCertificationTestcases:520 - <?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Vocera" label="Vocera" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Patients" enabled="true" visible="true" x="0" y="20" width="375" height="44">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="16" y="20" width="44" height="44">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="false" x="16" y="20" width="0" height="0"/>
+              </XCUIElementTypeButton>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patients" name="Patients" label="Patients" enabled="true" visible="true" x="155" y="32" width="66" height="21"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" name="my_patients_x2.png" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="114" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="218" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, TestPatient  " name="One, TestPatient  " label="One, TestPatient  " enabled="true" visible="true" x="8" y="122" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="141" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="159" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="176" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="195" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="218" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="true" x="46" y="176" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="true" x="51" y="159" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1001" name="MRN1001" label="MRN1001" enabled="true" visible="true" x="50" y="195" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="true" x="57" y="141" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="219" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="323" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, TestPatient  " name="Two, TestPatient  " label="Two, TestPatient  " enabled="true" visible="true" x="8" y="227" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="246" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="264" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="281" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="300" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="323" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="true" x="46" y="281" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="23/Feb/1990 (30y)" name="23/Feb/1990 (30y)" label="23/Feb/1990 (30y)" enabled="true" visible="true" x="51" y="264" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1002" name="MRN1002" label="MRN1002" enabled="true" visible="true" x="50" y="300" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="true" x="57" y="246" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="175" y="55" width="25" height="5"/>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="667" width="375" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>
+2020-03-04 23:26:56 INFO  DeviceCertificationTestcases:528 - ************************************************************************************************************************************
+2020-03-04 23:27:24 INFO  DeviceCertificationTestcases:529 - <?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Vocera" label="Vocera" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Patients" enabled="true" visible="true" x="0" y="20" width="375" height="44">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="16" y="20" width="44" height="44">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="false" x="16" y="20" width="0" height="0"/>
+              </XCUIElementTypeButton>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patients" name="Patients" label="Patients" enabled="true" visible="true" x="155" y="32" width="66" height="21"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="144" width="375" height="523">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" x="0" y="144" width="375" height="523">
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="144" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="248" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13, Patient  " name="13, Patient  " label="13, Patient  " enabled="true" visible="true" x="8" y="152" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="171" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="189" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="206" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="225" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="248" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_13" name="BLR_QA_Facility BLR_QA_Unit_13" label="BLR_QA_Facility BLR_QA_Unit_13" enabled="true" visible="true" x="46" y="206" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1956 (63y)" name="20/May/1956 (63y)" label="20/May/1956 (63y)" enabled="true" visible="true" x="51" y="189" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN562653" name="MRN562653" label="MRN562653" enabled="true" visible="true" x="50" y="225" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R13" name="R13" label="R13" enabled="true" visible="true" x="57" y="171" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="249" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="353" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Automation, Mypatient  " name="Automation, Mypatient  " label="Automation, Mypatient  " enabled="true" visible="true" x="8" y="257" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="276" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="294" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="311" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="330" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="353" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DeviceCertification CertAutomation" name="DeviceCertification CertAutomation" label="DeviceCertification CertAutomation" enabled="true" visible="true" x="46" y="311" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="04/Mar/2020 (0d)" name="04/Mar/2020 (0d)" label="04/Mar/2020 (0d)" enabled="true" visible="true" x="51" y="294" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="123456789" name="123456789" label="123456789" enabled="true" visible="true" x="50" y="330" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="311" name="311" label="311" enabled="true" visible="true" x="57" y="276" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="354" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="458" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Esron, Nesbitt  " name="Esron, Nesbitt  " label="Esron, Nesbitt  " enabled="true" visible="true" x="8" y="362" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="381" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="399" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="416" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="435" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="458" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="FACILITY ICU1" name="FACILITY ICU1" label="FACILITY ICU1" enabled="true" visible="true" x="46" y="416" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="01/Jan/001 (2020y)" name="01/Jan/001 (2020y)" label="01/Jan/001 (2020y)" enabled="true" visible="true" x="51" y="399" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="346502222" name="346502222" label="346502222" enabled="true" visible="true" x="50" y="435" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="B650" name="B650" label="B650" enabled="true" visible="true" x="57" y="381" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="459" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="563" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="five, patient  " name="five, patient  " label="five, patient  " enabled="true" visible="true" x="8" y="467" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="486" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="504" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="521" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="540" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="8" y="563" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_OneVCSCare" name="BLR_QA_Facility BLR_QA_Unit_OneVCSCare" label="BLR_QA_Facility BLR_QA_Unit_OneVCSCare" enabled="true" visible="true" x="46" y="521" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1984 (35y)" name="20/May/1984 (35y)" label="20/May/1984 (35y)" enabled="true" visible="true" x="51" y="504" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN54367" name="MRN54367" label="MRN54367" enabled="true" visible="true" x="50" y="540" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="r1" name="r1" label="r1" enabled="true" visible="true" x="57" y="486" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" x="0" y="564" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="668" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="four, patient  " name="four, patient  " label="four, patient  " enabled="true" visible="true" x="8" y="572" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="true" x="8" y="591" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="true" x="8" y="609" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="true" x="8" y="626" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="true" x="8" y="645" width="37" height="21"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="8" y="668" width="312" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_VoceraAndEngageCare" name="BLR_QA_Facility BLR_QA_Unit_VoceraAndEngageCare" label="BLR_QA_Facility BLR_QA_Unit_VoceraAndEngageCare" enabled="true" visible="true" x="46" y="626" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/Apr/1978 (41y)" name="13/Apr/1978 (41y)" label="13/Apr/1978 (41y)" enabled="true" visible="true" x="51" y="609" width="261" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN454455" name="MRN454455" label="MRN454455" enabled="true" visible="true" x="50" y="645" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room_1" name="Room_1" label="Room_1" enabled="true" visible="true" x="57" y="591" width="255" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="669" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="one, patient  " name="one, patient  " label="one, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_NoCareTeam" name="BLR_QA_Facility BLR_QA_Unit_NoCareTeam" label="BLR_QA_Facility BLR_QA_Unit_NoCareTeam" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN45678" name="MRN45678" label="MRN45678" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1956 (63y)" name="20/May/1956 (63y)" label="20/May/1956 (63y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="774" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, Patient1  " name="One, Patient1  " label="One, Patient1  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility2 BLR_Unit2" name="BLR_Facility2 BLR_Unit2" label="BLR_Facility2 BLR_Unit2" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN2001" name="MRN2001" label="MRN2001" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="04/Apr/1992 (27y)" name="04/Apr/1992 (27y)" label="04/Apr/1992 (27y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="879" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="One, TestPatient  " name="One, TestPatient  " label="One, TestPatient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1001" name="MRN1001" label="MRN1001" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="984" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Parks, Nancy  " name="Parks, Nancy  " label="Parks, Nancy  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="B850" name="B850" label="B850" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="FACILITY ICU1" name="FACILITY ICU1" label="FACILITY ICU1" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="914697" name="914697" label="914697" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="01/Jan/001 (2020y)" name="01/Jan/001 (2020y)" label="01/Jan/001 (2020y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1089" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patient, ToField  " name="Patient, ToField  " label="Patient, ToField  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="076" name="076" label="076" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="ToFieldFac Availability" name="ToFieldFac Availability" label="ToFieldFac Availability" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="123456" name="123456" label="123456" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="06/Dec/2019 (89d)" name="06/Dec/2019 (89d)" label="06/Dec/2019 (89d)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1194" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patient1, Sample  " name="Patient1, Sample  " label="Patient1, Sample  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="S01" name="S01" label="S01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="SampleFacility SampleUnit" name="SampleFacility SampleUnit" label="SampleFacility SampleUnit" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN5646523" name="MRN5646523" label="MRN5646523" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/May/1997 (22y)" name="13/May/1997 (22y)" label="13/May/1997 (22y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1299" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="patientuserone, longnamepatient longnamepatinet  long" name="patientuserone, longnamepatient longnamepatinet  long" label="patientuserone, longnamepatient longnamepatinet  long" enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="101" name="101" label="101" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Automation VCS" name="Automation VCS" label="Automation VCS" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="98765" name="98765" label="98765" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="15/Nov/1996 (23y)" name="15/Nov/1996 (23y)" label="15/Nov/1996 (23y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1404" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Seven, Patient  " name="Seven, Patient  " label="Seven, Patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="1" name="1" label="1" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patient7Facility patient7unit" name="Patient7Facility patient7unit" label="Patient7Facility patient7unit" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1234567" name="MRN1234567" label="MRN1234567" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/Aug/1997 (22y)" name="20/Aug/1997 (22y)" label="20/Aug/1997 (22y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1509" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="six, patient  " name="six, patient  " label="six, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="room_02" name="room_02" label="room_02" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_OneVoceraAndFewEngage" name="BLR_QA_Facility BLR_QA_Unit_OneVoceraAndFewEngage" label="BLR_QA_Facility BLR_QA_Unit_OneVoceraAndFewEngage" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN562435" name="MRN562435" label="MRN562435" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/Apr/1987 (32y)" name="13/Apr/1987 (32y)" label="13/Apr/1987 (32y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1614" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="three, patient  " name="three, patient  " label="three, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room_01" name="Room_01" label="Room_01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_VoceraCareTeam" name="BLR_QA_Facility BLR_QA_Unit_VoceraCareTeam" label="BLR_QA_Facility BLR_QA_Unit_VoceraCareTeam" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN4567" name="MRN4567" label="MRN4567" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="13/May/1952 (67y)" name="13/May/1952 (67y)" label="13/May/1952 (67y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1719" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Three, Patient3  " name="Three, Patient3  " label="Three, Patient3  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility2 BLR_Unit2" name="BLR_Facility2 BLR_Unit2" label="BLR_Facility2 BLR_Unit2" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN2003" name="MRN2003" label="MRN2003" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="30/Dec/1995 (24y)" name="30/Dec/1995 (24y)" label="30/Dec/1995 (24y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1824" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="two, patient  " name="two, patient  " label="two, patient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room-1" name="Room-1" label="Room-1" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_QA_Facility BLR_QA_Unit_EngageCareTeam" name="BLR_QA_Facility BLR_QA_Unit_EngageCareTeam" label="BLR_QA_Facility BLR_QA_Unit_EngageCareTeam" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN12345" name="MRN12345" label="MRN12345" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="20/May/1994 (25y)" name="20/May/1994 (25y)" label="20/May/1994 (25y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="1929" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, Patient2  " name="Two, Patient2  " label="Two, Patient2  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility2 BLR_Unit2" name="BLR_Facility2 BLR_Unit2" label="BLR_Facility2 BLR_Unit2" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN2002" name="MRN2002" label="MRN2002" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="12/Sep/1989 (30y)" name="12/Sep/1989 (30y)" label="12/Sep/1989 (30y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                      <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" x="0" y="2034" width="375" height="105">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="312" height="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="144" width="375" height="1"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Two, TestPatient  " name="Two, TestPatient  " label="Two, TestPatient  " enabled="true" visible="false" x="0" y="144" width="359" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="R01" name="R01" label="R01" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="BLR_Facility1 BLR_Unit1" name="BLR_Facility1 BLR_Unit1" label="BLR_Facility1 BLR_Unit1" enabled="true" visible="false" x="0" y="144" width="266" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN1002" name="MRN1002" label="MRN1002" enabled="true" visible="false" x="0" y="144" width="255" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Room:" name="Room:" label="Room:" enabled="true" visible="false" x="0" y="144" width="44" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Unit: " name="Unit: " label="Unit: " enabled="true" visible="false" x="0" y="144" width="33" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="MRN: " name="MRN: " label="MRN: " enabled="true" visible="false" x="0" y="144" width="37" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="DoB:" name="DoB:" label="DoB:" enabled="true" visible="false" x="0" y="144" width="38" height="21"/>
+                        <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="23/Feb/1990 (30y)" name="23/Feb/1990 (30y)" label="23/Feb/1990 (30y)" enabled="true" visible="false" x="0" y="144" width="261" height="21"/>
+                      </XCUIElementTypeCell>
+                    </XCUIElementTypeTable>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="175" y="55" width="25" height="5"/>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="667" width="375" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>
+2020-03-04 23:27:27 INFO  DeviceCertificationTestcases:532 - ************************************************************************************************************************************
+2020-03-04 23:27:27 INFO  DeviceCertificationTestcases:533 - <?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name="Vocera" label="Vocera" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="Patients" enabled="true" visible="true" x="0" y="20" width="375" height="44">
+              <XCUIElementTypeButton type="XCUIElementTypeButton" enabled="true" visible="true" x="16" y="20" width="44" height="44">
+                <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" enabled="true" visible="false" x="16" y="20" width="0" height="0"/>
+              </XCUIElementTypeButton>
+              <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Patients" name="Patients" label="Patients" enabled="true" visible="true" x="155" y="32" width="66" height="21"/>
+            </XCUIElementTypeNavigationBar>
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="603">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="64" width="375" height="50">
+                    <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="true" x="8" y="72" width="90" height="34"/>
+                    <XCUIElementTypeTextField type="XCUIElementTypeTextField" value="Name, Room or MRN" label="" enabled="true" visible="true" x="106" y="72" width="206" height="30"/>
+                  </XCUIElementTypeOther>
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="114" width="375" height="553">
+                    <XCUIElementTypeTable type="XCUIElementTypeTable" name="Empty list" label="Empty list" enabled="true" visible="false" x="0" y="114" width="375" height="553"/>
+                    <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="No Patients Found" name="No Patients Found" label="No Patients Found" enabled="true" visible="true" x="0" y="114" width="375" height="553"/>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+            <XCUIElementTypeImage type="XCUIElementTypeImage" enabled="true" visible="false" x="175" y="55" width="25" height="5"/>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="667" width="375" height="216"/>
+    </XCUIElementTypeOther>
+  </XCUIElementTypeWindow>
+</XCUIElementTypeApplication></AppiumAUT>
